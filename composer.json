@@ -3,6 +3,7 @@
     "description": "A template for sandbox project.",
     "keywords": ["template"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.2"
     },
